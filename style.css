@@ -41,8 +41,8 @@ display: flex;
   color: white;
 }
 
-.menu-table th,
-.menu-table td {border: 6px solid black; }
+.table th,
+.table td {border: 6px solid black; }
 
 nav a {
 
