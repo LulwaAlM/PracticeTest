@@ -28,7 +28,7 @@ display: flex;
 }
 
 
-.menu-table {
+.table {
   margin: 18px auto;
   border: 4px solid gray;
   border-collapse: collapse;
@@ -36,10 +36,11 @@ display: flex;
 }
 
 
-.menu-table th {
+.table th {
   background-color: orange;
   color: white;
 }
+
 nav a {
 
   color: white;
