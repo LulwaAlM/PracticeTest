@@ -42,7 +42,7 @@ display: flex;
 }
 
 .table th,
-.table td {border: 6px solid black; }
+.table td {border: 1px solid black; }
 
 nav a {
 
