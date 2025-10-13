@@ -28,6 +28,24 @@ display: flex;
 }
 
 
+.menu-table {
+  margin: 20px auto;
+  border: 1px solid gray;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+.menu-table th,
+.menu-table td {
+  border: 1px solid gray;
+  padding: 10px;
+  text-align: left;
+}
+
+.menu-table th {
+  background-color: orange;
+  color: white;
+}
 nav a {
 
   color: white;
@@ -35,9 +53,6 @@ nav a {
   text-decoration: none;
 }
 
-#ourmenu {
-  margin-bottom: 60px;
-}
 
 #contactform {
   margin-top: 60px;
@@ -46,9 +61,4 @@ nav a {
 
 
 
-
-.menu2 {
-  text-align: center;
-  font-size: 14px;
-}
 
