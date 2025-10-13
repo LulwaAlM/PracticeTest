@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Segoe UI, Arial;
+}
+
+body {
+  background: white;
+  color: black;
+  padding-top: 65px;
+  text-align: center;
+}
+
+nav {
+  position: fixed;
+  top:0; 
+  background: orange;
+  width: 100%;
+
+}
+
+nav ul {
+justify-content: center;
+list-style:none;
+gap: 20px;
+display: flex;
+}
+
+
+nav a {
+
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+
+
+
+.menu2 {
+  text-align: center;
+  font-size: 14px;
+}
+
