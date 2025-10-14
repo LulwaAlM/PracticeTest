@@ -58,6 +58,12 @@ nav a {
   margin-top: 60px;
 }
 
+  .table img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover; 
+  }
+
 
 #logo {width: 30%;}
 
